@@ -1,0 +1,27 @@
+body{
+  border: solid black 1px;
+  box-sizing: content-box;
+  width: 500px;
+  height: 380px;
+  padding: 0px; 
+  border-radius: 25px;
+}
+article{
+  width: 500px;
+  height: 100px;
+  background-color: pink;
+  padding: 0px;
+  font-size: 20px;
+}
+form,h2{
+width: 500px;
+height: 50px;
+background-color: white;
+color: black;
+font: 50px Monospace;
+}
+footer{
+  width: 500px;
+  height: 33px;
+  background-color: pink;
+}
