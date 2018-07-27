@@ -1,4 +1,4 @@
-First basic practice between "state" and "onChange"
+Basic practice between "state" and "onChange"
 
 ```
 export default class extends React.Component {
