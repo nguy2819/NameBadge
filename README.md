@@ -1,6 +1,7 @@
 Basic practice between "state" and "onChange"
 > ![screen shot 2018-09-03 at 11 40 45 am](https://user-images.githubusercontent.com/36870689/44997826-57da7c80-af6e-11e8-8ebe-152e2622f3f4.png)
 
+- Here is the link that I deployed via Netlify, please try it out: https://namebadge-tienborland.netlify.com/
 ```
 export default class extends React.Component {
     state = {
